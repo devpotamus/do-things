@@ -1,0 +1,8 @@
+# Do Things
+
+A simple ToDo project to demonstrate different technology stacks. 
+
+## Tech stack
+
+- Astro
+- Bootstrap
